@@ -7,9 +7,6 @@ My name is Diogo, and I am an Electrical and Computer Engineer focused on develo
   
 - 🌱 I’m currently learning and deepening my skills in other programming languages such as Python, along with exploring Data Science concepts and tools.
 
-- 📫 How to reach me: My Socials
-
-   ![alt text](icons8-instagram-48.png)![alt text](icons8-linkedin-48.png)
 <!--
 **diogobarroso88/diogobarroso88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
