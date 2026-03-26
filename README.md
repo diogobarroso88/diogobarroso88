@@ -9,7 +9,7 @@ My name is Diogo, and I am an Electrical and Computer Engineer focused on develo
 
 - 📫 How to reach me: My Socials
 
-https://icons8.com/icon/32323/instagram
+![alt text](icons8-instagram-48.png)
 <!--
 **diogobarroso88/diogobarroso88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
