@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there
 
 My name is Diogo, and I am an Electrical and Computer Engineer focused on developing mobile applications using Flutter.
 
 
-- 🔭 I’m currently working on my PhD, which focuses on developing a Decision Support System (DSS) to help winegrowers prevent and manage vine diseases.
+- Working on my PhD, which focuses on developing a Decision Support System (DSS) to help winegrowers prevent and manage vine diseases.
   
-- 🌱 I’m currently learning and deepening my skills in other programming languages such as Python, along with exploring Data Science concepts and tools.
+- Currently learning and deepening my skills in other programming languages such as Python, along with exploring Data Science concepts and tools.
 
 <!--
 **diogobarroso88/diogobarroso88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
